@@ -2,8 +2,6 @@
 
 A modern, lightweight web browser built with HTML, CSS, and JavaScript. Features a sleek dark/light theme, bookmarks, navigation controls, and uses a Cloudflare Worker proxy to bypass CORS restrictions for embedding websites.
 
-![Nova Browser](https://img.shields.io/badge/Nova-Browser-blue?style=flat-square)
-
 ## Features
 
 - **Modern UI** - Clean, beautiful interface with smooth animations
@@ -27,13 +25,6 @@ A modern, lightweight web browser built with HTML, CSS, and JavaScript. Features
 | `Alt+Left` | Go back |
 | `Alt+Right` | Go forward |
 | `Escape` | Close modals |
-
-## Quick Links
-
-- Google
-- YouTube
-- GitHub
-- Twitter
 
 ## Technology Stack
 
@@ -119,16 +110,6 @@ Edit the `.quick-links` section in `index.html`:
 ### Adding More Icons
 
 Font Awesome 6 icons are supported. Check [Font Awesome](https://fontawesome.com/search?m=free) for available icons.
-
-## Browser Compatibility
-
-- Chrome/Edge 90+
-- Firefox 88+
-- Safari 14+
-
-## License
-
-MIT License - feel free to use this project for any purpose.
 
 ## Acknowledgments
 
